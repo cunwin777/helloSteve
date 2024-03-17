@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T21:12:19.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WDhbmFRN818685AY-TLq" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T18:44:15.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K6W24DxHqVMX-tXX2J2O" version="24.0.5" type="github">
   <diagram name="Page-1" id="RNW1sZLBK1VIWFWggggq">
-    <mxGraphModel dx="1434" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="svAv-cvB3rqIrMd_7aEM-51" value="Orchestration Decision Process End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1350" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="1470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="svAv-cvB3rqIrMd_7aEM-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svAv-cvB3rqIrMd_7aEM-29" target="svAv-cvB3rqIrMd_7aEM-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -246,8 +246,8 @@
             <mxPoint x="540" y="1380" as="sourcePoint" />
             <mxPoint x="530" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="1430" />
-              <mxPoint x="560" y="1430" />
+              <mxPoint x="770" y="1570" />
+              <mxPoint x="560" y="1570" />
               <mxPoint x="560" y="680" />
             </Array>
           </mxGeometry>
@@ -310,7 +310,7 @@
         <mxCell id="svAv-cvB3rqIrMd_7aEM-69" value="RPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="svAv-cvB3rqIrMd_7aEM-70" value="Establish Cost of Manual Process" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-70" value="Establish Cost of Manual Process" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="svAv-cvB3rqIrMd_7aEM-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svAv-cvB3rqIrMd_7aEM-17" target="svAv-cvB3rqIrMd_7aEM-70">
@@ -401,6 +401,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="1360" as="sourcePoint" />
             <mxPoint x="190" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-90" value="What is the cost of implementation, additional licensing and ongoing maintenance?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1420" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-91" value="What is the cost of implementation, additional licensing and ongoing maintenance?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-92" value="Is the solution cost effective" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svAv-cvB3rqIrMd_7aEM-88" target="svAv-cvB3rqIrMd_7aEM-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1410" as="sourcePoint" />
+            <mxPoint x="260" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.492;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="svAv-cvB3rqIrMd_7aEM-90" target="svAv-cvB3rqIrMd_7aEM-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1660" as="sourcePoint" />
+            <mxPoint x="280" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-95" value="Implement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svAv-cvB3rqIrMd_7aEM-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svAv-cvB3rqIrMd_7aEM-92" target="svAv-cvB3rqIrMd_7aEM-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1700" as="sourcePoint" />
+            <mxPoint x="370" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
